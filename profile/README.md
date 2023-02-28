@@ -1,4 +1,4 @@
 # TeamSchedule
 
 ## Service diagram
-<img src="profile/diagram1.png">
+<img src="profile/diagram1.drawio.png">
